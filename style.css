@@ -376,3 +376,6 @@ footer a {
     margin-bottom: 30px;
   }
 }
+.sample-container {
+  border: 0
+}
