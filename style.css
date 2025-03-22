@@ -377,5 +377,6 @@ footer a {
   }
 }
 .sample-container {
-  border: 0
+  border: 0;
+  font-style: none;
 }
